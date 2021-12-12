@@ -17,6 +17,8 @@ Then Automatizational software will do this task:
 5. Check that your changes are visible on the Job Title page
 6. Select your field, click the Remove button and make sure your field is removed.
 
--Class Automatization implements functions for 1,2,4,5,6 task points
--Function check() tests  added job title ( 2 task point) , changes with job title and job description ( 5 task point )
--Function check_deletion() tests deletion of job title
+Class Automatization implements functions for 1,2,4,5,6 task points
+
+Function check() tests  added job title ( 2 task point) , changes with job title and job description ( 5 task point )
+
+Function check_deletion() tests deletion of job title
