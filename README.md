@@ -1,6 +1,6 @@
 Used stack:
   - selenium package
-  - Chrome webdriver
+  - Chrome webdriver https://chromedriver.storage.googleapis.com/index.html?path=96.0.4664.45/
   - OOP patterns
 
 Firstly you need to open this file in python development environment and compile the code
