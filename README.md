@@ -1,7 +1,7 @@
 Used stack:
-  selenium package
-  Chrome webdriver
-  OOP patterns
+  - selenium package
+  - Chrome webdriver
+  - OOP patterns
 
 Firstly you need to open this file in python development environment and compile the code
 Then Automatizational software will do this task:
