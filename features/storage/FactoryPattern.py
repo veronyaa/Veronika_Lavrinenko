@@ -6,7 +6,6 @@ class FactoryPattern:
                     'POST': PostRequest,
                     'PUT': PutRequest,
                     'DELETE': DeleteRequest}
-    # иф метод = гет формируем гет реквест если пост то пост реквест , удалили сет контент тайп , задавать через шото
     def get_request(self, method: str, url: str, token, content_type, headers: dict, body: dict, path: str):
         req = self.request_type[method.upper()](url)
         req.set_header('Content-Type',content_type)
